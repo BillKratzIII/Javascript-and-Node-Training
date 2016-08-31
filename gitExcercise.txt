@@ -1,4 +1,4 @@
-Git Excercise
+Git Excercise by Paul/Bill
 
 
 my branch add on stuff
